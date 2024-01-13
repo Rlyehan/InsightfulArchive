@@ -1,0 +1,8 @@
+fastapi[all]
+uvicorn[standard]
+elasticsearch
+transformers
+torch
+python-multipart
+markdown
+jinja2
